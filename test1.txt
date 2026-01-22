@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1626-016B
+
+ Directory of C:\Users\home\Desktop\My Project
+
+01/21/2026  03:06 PM    <DIR>          .
+01/21/2026  02:44 PM    <DIR>          ..
+01/21/2026  03:06 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  103,695,302,656 bytes free
